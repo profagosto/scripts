@@ -1,1 +1,1 @@
-print('Fuck the World!')
+print('Bless the World!')
